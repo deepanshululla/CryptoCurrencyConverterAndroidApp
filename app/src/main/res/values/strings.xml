@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CryptoCurrencyConverter</string>
+    <string name="currency_prompt">Choose a Cryptocurrency</string>
+
+    <string-array name="currency_arrays">
+        <item>ETH</item>
+        <item>USD</item>
+        <item>BTC</item>
+        <item>LTC</item>
+    </string-array>
+</resources>
